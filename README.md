@@ -1,0 +1,1 @@
+# sbt-coveralls-multimodule-tests
