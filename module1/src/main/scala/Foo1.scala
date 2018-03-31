@@ -1,4 +1,4 @@
-object Foo2 {
+object Foo1 {
 
   def sum(num1: Int, num2: Int) = {
     num1 + num2
