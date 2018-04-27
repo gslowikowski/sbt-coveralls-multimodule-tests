@@ -2,8 +2,7 @@ val commonSettings = Seq(
   organization := "com.github.gslowikowski.tests.disabling-scoverage-plugin.multi-module",
   version := "1.0.0-SNAPSHOT",
   scalaVersion := "2.12.4",
-  crossScalaVersions := Seq("2.10.7", "2.11.12", "2.12.4"),
-  org.scoverage.coveralls.Imports.CoverallsKeys.coverallsToken := Some("NVtCiIoGkQXRf6xsM5NsdT8pu3Ta2pHyC")
+  crossScalaVersions := Seq("2.10.7", "2.11.12", "2.12.4")
 )
 
 val moduleSettings = Seq(
